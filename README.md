@@ -7,7 +7,7 @@ Introduction: This is a Python program that retrieves data from CoinMarketCap vi
 Requirements: This program requires Python 3.x, as well as the requests libraries. You can install these libraries by running the following command:
 pip install requests
 
-Installation: To install this program, simply clone this repository to your local machine:git clone https://github.com/yourusername/coinmarketcap-api-python.git. 
+Installation: To install this program, simply clone this repository to your local machine:git clone https://github.com/Sir-kayode/Kay_Data_CoinMarketCap_API.git. 
 Then, navigate to the directory where you cloned the repository and install the dependencies:pip install requests.
 
 Configuration: To connect to the CoinMarketCap API, you will need an API key. You can obtain a key by signing up for an account on the CoinMarketCap website.
