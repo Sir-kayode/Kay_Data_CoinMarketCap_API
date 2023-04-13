@@ -1,8 +1,7 @@
-Project Name:  Kay_Data_CoinMarketCap_API
-
-Time Line April 10, 2023 to April 16, 2023
-
 Introduction: This is a Python program that retrieves data from CoinMarketCap via their API. It allows users to view real-time data on cryptocurrency prices, market caps, and other relevant information.
+What is CoinMarketCap? CoinMarketCap is a popular website that provides cryptocurrency market data, such as prices, market capitalizations, trading volumes, and other metrics for over 10,000 cryptocurrencies. It is one of the most widely used sources of information for the cryptocurrency industry.
+
+CoinMarketCap was founded in 2013 by Brandon Chez as a simple tool to track the prices of Bitcoin and a few other cryptocurrencies. Over time, it has grown into a comprehensive platform that provides detailed information on a wide range of cryptocurrencies, including historical data and real-time market updates.
 
 Requirements: This program requires Python 3.x, as well as the requests libraries. You can install these libraries by running the following command:
 pip install requests
@@ -36,3 +35,6 @@ Contact: If you have any questions or feedback about this program, feel free to 
 Note that this program uses the CoinMarketCap Pro API, which requires an API key for access. You will need to sign up for a CoinMarketCap account and obtain an API key in order to use this program
 
 Co-Collaborators : Mrs Ofomiaju Elizerbet, Mrs Damilola Olufisayo, Ms Susan and Mr. Bolurin
+
+Time Line April 10, 2023 to April 16, 2023
+Project Name:Kay_Data_CoinMarketCap_API
